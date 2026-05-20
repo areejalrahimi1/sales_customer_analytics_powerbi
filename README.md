@@ -1,5 +1,3 @@
-# sales_customer_analytics_powerbi
-End-to-end Power BI business intelligence project analyzing sales performance, profitability, and customer satisfaction.
 
 # Sales & Customer Analytics Project
 
