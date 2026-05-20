@@ -56,7 +56,7 @@ This project helps identify key drivers of profitability and customer satisfacti
 ![Data Model](screenshts/data_model.png)
 
 ## Tooltips
-![Data Model](screenshots/tooltips.png)
+![Tooltips](screenshots/tooltips.png)
 
 ---
 
