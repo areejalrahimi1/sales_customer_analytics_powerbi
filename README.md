@@ -45,16 +45,16 @@ This project helps identify key drivers of profitability and customer satisfacti
 ---
 
 ## Dashboard Preview
-![Main Dashboard](sales-customer-analytics-powerbi/screenshts/dashboard.png)
+![Main Dashboard](screenshots/dashboard.png)
 
 ## AI Insights
-![AI Insights](sales-customer-analytics-powerbi/screenshts/ai_insights.png)
+![AI Insights](screenshots/ai_insights.png)
 
 ## Data Model
-![Data Model](sales-customer-analytics-powerbi/screenshts/data_model.png)
+![Data Model](screenshots/data_model.png)
 
 ## Tooltips
-![Tooltips](sales-customer-analytics-powerbi/screenshts/tooltips.png)
+![Tooltips](screenshots/tooltips.png)
 
 ---
 
