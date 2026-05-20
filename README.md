@@ -47,16 +47,16 @@ This project helps identify key drivers of profitability and customer satisfacti
 ---
 
 ## Dashboard Preview
-![Main Dashboard](Screenshots/dashboard.png)
+![Main Dashboard](screenshts/dashboard.png)
 
 ## AI Insights
-![AI Insights](Screenshots/ai_insights.png)
+![AI Insights](screenshts/ai_insights.png)
 
 ## Data Model
-![Data Model](Screenshots/data_model.png)
+![Data Model](screenshts/data_model.png)
 
 ## Tooltips
-![Data Model](Screenshots/tooltips.png)
+![Data Model](screenshots/tooltips.png)
 
 ---
 
