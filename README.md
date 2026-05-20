@@ -41,5 +41,30 @@ This project is an end-to-end Power BI business intelligence project designed to
 
 ---
 
+## Business Impact
+This project helps identify key drivers of profitability and customer satisfaction, enabling better business decision-making through interactive analytics
+
+---
+
+## Dashboard Preview
+![Main Dashboard](Screenshots/dashboard.png)
+
+## AI Insights
+![AI Insights](Screenshots/ai_insights.png)
+
+## Data Model
+![Data Model](Screenshots/data_model.png)
+
+## Tooltips
+![Data Model](Screenshots/tooltips.png)
+
+---
+
 ## Outcome
 The project provides actionable business insights to support data-driven decision-making and improve business performance.
+
+---
+
+## Author
+Areej Almutairi
+
