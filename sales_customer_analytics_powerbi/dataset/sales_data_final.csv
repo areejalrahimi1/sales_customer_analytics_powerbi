@@ -1,0 +1,201 @@
+Invoice ID,Date,Category,Region,Customer Type,Payment Method,Quantity,Unit Price,Total,Product ID,Customer ID
+INV1000,2024-04-12,Mobile Devices,South,Returning,Cash,2,535.61,1071.22,P012,C035
+INV1001,2024-02-21,Home Appliances,West,Returning,Bank Transfer,3,251.94,755.82,P017,C008
+INV1002,2024-04-02,Home Appliances,Central,New,Cash,9,1201.34,10812.06,P020,C046
+INV1003,2024-01-15,Home Appliances,West,Returning,Credit Card,7,949.11,6643.77,P005,C014
+INV1004,2024-04-16,Accessories,East,New,Credit Card,7,823.52,5764.64,P004,C010
+INV1005,2024-03-12,Accessories,West,Returning,Bank Transfer,6,1346.14,8076.84,P012,C002
+INV1006,2024-03-01,Accessories,West,Returning,Bank Transfer,8,1193.47,9547.76,P020,C046
+INV1007,2024-01-21,Mobile Devices,East,Returning,Bank Transfer,4,269.93,1079.72,P018,C009
+INV1008,2024-04-12,Accessories,South,New,Credit Card,8,502.0,4016.0,P017,C003
+INV1009,2024-03-23,Mobile Devices,West,Returning,Cash,4,410.31,1641.24,P019,C021
+INV1010,2024-03-27,Mobile Devices,South,Returning,Credit Card,8,1128.72,9029.76,P009,C026
+INV1011,2024-03-15,Accessories,West,Returning,Cash,9,98.62,887.58,P004,C008
+INV1012,2024-03-15,Accessories,South,Returning,Credit Card,3,876.34,2629.02,P002,C048
+INV1013,2024-03-28,Accessories,East,New,Cash,3,1155.57,3466.71,P004,C002
+INV1014,2024-04-26,Home Appliances,West,Returning,Credit Card,2,1321.31,2642.62,P002,C006
+INV1015,2024-04-09,Accessories,East,New,Bank Transfer,3,546.02,1638.06,P015,C028
+INV1016,2024-04-13,Home Appliances,West,New,Credit Card,3,1240.82,3722.46,P002,C029
+INV1017,2024-01-24,Mobile Devices,East,New,Cash,5,210.42,1052.1,P004,C026
+INV1018,2024-01-03,Home Appliances,East,New,Credit Card,5,1277.36,6386.8,P006,C025
+INV1019,2024-01-22,Accessories,West,New,Credit Card,2,234.86,469.72,P007,C012
+INV1020,2024-02-22,Mobile Devices,West,New,Credit Card,6,626.07,3756.42,P010,C005
+INV1021,2024-01-02,Mobile Devices,West,Returning,Bank Transfer,5,1206.08,6030.4,P019,C034
+INV1022,2024-03-28,Mobile Devices,Central,New,Credit Card,6,267.38,1604.28,P019,C048
+INV1023,2024-04-17,Home Appliances,South,New,Bank Transfer,1,382.41,382.41,P012,C037
+INV1024,2024-01-30,Accessories,Central,New,Bank Transfer,5,1097.27,5486.35,P003,C015
+INV1025,2024-02-07,Mobile Devices,Central,Returning,Credit Card,9,1094.05,9846.45,P013,C044
+INV1026,2024-01-02,Mobile Devices,East,Returning,Credit Card,2,979.66,1959.32,P018,C036
+INV1027,2024-03-04,Mobile Devices,West,New,Credit Card,1,1056.23,1056.23,P008,C015
+INV1028,2024-02-29,Home Appliances,South,Returning,Cash,9,836.95,7532.55,P015,C043
+INV1029,2024-01-21,Home Appliances,East,New,Credit Card,9,415.11,3735.99,P001,C048
+INV1030,2024-02-02,Accessories,Central,New,Bank Transfer,9,551.26,4961.34,P003,C023
+INV1031,2024-03-16,Home Appliances,West,Returning,Credit Card,6,313.32,1879.92,P008,C006
+INV1032,2024-02-27,Mobile Devices,East,New,Cash,8,1367.25,10938.0,P004,C046
+INV1033,2024-01-22,Accessories,West,Returning,Credit Card,1,895.92,895.92,P016,C050
+INV1034,2024-04-17,Mobile Devices,East,Returning,Cash,4,631.23,2524.92,P010,C044
+INV1035,2024-03-29,Mobile Devices,West,New,Cash,1,719.91,719.91,P012,C043
+INV1036,2024-02-18,Home Appliances,Central,New,Credit Card,8,1423.56,11388.48,P014,C045
+INV1037,2024-03-31,Accessories,South,Returning,Bank Transfer,1,272.36,272.36,P014,C021
+INV1038,2024-02-28,Home Appliances,Central,New,Cash,3,900.03,2700.09,P002,C023
+INV1039,2024-02-11,Home Appliances,South,New,Credit Card,4,783.54,3134.16,P005,C043
+INV1040,2024-04-01,Accessories,West,New,Credit Card,8,936.61,7492.88,P005,C016
+INV1041,2024-02-29,Mobile Devices,East,Returning,Bank Transfer,6,76.26,457.56,P006,C047
+INV1042,2024-03-20,Mobile Devices,Central,Returning,Cash,7,1314.58,9202.06,P013,C015
+INV1043,2024-01-15,Accessories,South,New,Cash,8,1401.57,11212.56,P009,C025
+INV1044,2024-03-02,Mobile Devices,Central,Returning,Credit Card,2,869.44,1738.88,P015,C036
+INV1045,2024-03-02,Accessories,South,Returning,Credit Card,8,1060.14,8481.12,P014,C011
+INV1046,2024-02-16,Accessories,Central,Returning,Bank Transfer,3,1387.62,4162.86,P007,C015
+INV1047,2024-03-02,Home Appliances,South,Returning,Bank Transfer,7,1075.5,7528.5,P020,C004
+INV1048,2024-02-20,Accessories,South,Returning,Cash,3,271.18,813.54,P002,C021
+INV1049,2024-04-17,Home Appliances,West,New,Cash,7,885.62,6199.34,P007,C013
+INV1050,2024-02-24,Mobile Devices,South,New,Credit Card,2,929.74,1859.48,P006,C022
+INV1051,2024-04-25,Mobile Devices,West,New,Cash,6,664.99,3989.94,P017,C019
+INV1052,2024-03-04,Mobile Devices,South,Returning,Bank Transfer,3,1117.84,3353.52,P002,C034
+INV1053,2024-01-03,Mobile Devices,East,Returning,Bank Transfer,3,1404.83,4214.49,P003,C014
+INV1054,2024-04-10,Home Appliances,East,New,Credit Card,9,1392.07,12528.63,P005,C004
+INV1055,2024-02-20,Mobile Devices,East,Returning,Bank Transfer,7,703.72,4926.04,P005,C048
+INV1056,2024-01-07,Accessories,South,New,Bank Transfer,5,214.2,1071.0,P001,C046
+INV1057,2024-01-21,Accessories,West,New,Bank Transfer,7,1478.02,10346.14,P008,C027
+INV1058,2024-03-13,Accessories,West,New,Bank Transfer,9,1266.4,11397.6,P012,C029
+INV1059,2024-02-08,Home Appliances,South,Returning,Credit Card,1,230.76,230.76,P004,C047
+INV1060,2024-01-18,Mobile Devices,East,Returning,Credit Card,7,1385.22,9696.54,P013,C028
+INV1061,2024-01-04,Mobile Devices,East,New,Cash,6,1311.35,7868.1,P015,C035
+INV1062,2024-03-29,Mobile Devices,West,New,Bank Transfer,9,802.32,7220.88,P011,C008
+INV1063,2024-02-29,Home Appliances,East,New,Cash,1,907.35,907.35,P010,C016
+INV1064,2024-01-14,Accessories,Central,New,Credit Card,4,628.55,2514.2,P003,C042
+INV1065,2024-04-23,Accessories,West,Returning,Credit Card,9,129.4,1164.6,P014,C036
+INV1066,2024-01-09,Mobile Devices,East,Returning,Credit Card,4,536.04,2144.16,P016,C030
+INV1067,2024-03-30,Accessories,West,New,Credit Card,3,1214.14,3642.42,P010,C018
+INV1068,2024-02-22,Accessories,Central,New,Credit Card,9,56.72,510.48,P010,C002
+INV1069,2024-01-02,Home Appliances,West,Returning,Credit Card,2,533.57,1067.14,P012,C049
+INV1070,2024-03-24,Home Appliances,West,Returning,Credit Card,4,627.34,2509.36,P009,C013
+INV1071,2024-04-01,Home Appliances,West,New,Bank Transfer,6,829.22,4975.32,P001,C004
+INV1072,2024-04-20,Home Appliances,West,New,Cash,2,1383.79,2767.58,P005,C026
+INV1073,2024-02-29,Mobile Devices,Central,New,Credit Card,8,552.2,4417.6,P020,C025
+INV1074,2024-03-11,Home Appliances,South,Returning,Bank Transfer,8,553.08,4424.64,P008,C030
+INV1075,2024-02-13,Accessories,West,Returning,Bank Transfer,1,1119.38,1119.38,P011,C011
+INV1076,2024-01-08,Mobile Devices,West,Returning,Cash,3,705.72,2117.16,P012,C007
+INV1077,2024-02-16,Accessories,East,New,Credit Card,9,375.68,3381.12,P001,C031
+INV1078,2024-02-04,Accessories,West,New,Cash,5,706.04,3530.2,P020,C044
+INV1079,2024-03-18,Accessories,East,Returning,Credit Card,6,254.24,1525.44,P011,C010
+INV1080,2024-03-21,Home Appliances,South,Returning,Bank Transfer,4,305.76,1223.04,P005,C039
+INV1081,2024-02-05,Home Appliances,Central,New,Bank Transfer,2,772.63,1545.26,P015,C013
+INV1082,2024-02-19,Mobile Devices,Central,Returning,Bank Transfer,8,657.44,5259.52,P005,C031
+INV1083,2024-04-13,Mobile Devices,South,Returning,Bank Transfer,6,1376.53,8259.18,P012,C007
+INV1084,2024-01-04,Home Appliances,Central,New,Cash,5,575.47,2877.35,P005,C049
+INV1085,2024-01-02,Accessories,South,Returning,Credit Card,9,891.85,8026.65,P017,C042
+INV1086,2024-01-06,Mobile Devices,South,New,Credit Card,1,966.78,966.78,P017,C042
+INV1087,2024-02-23,Home Appliances,South,New,Cash,5,68.99,344.95,P012,C036
+INV1088,2024-04-15,Home Appliances,Central,New,Credit Card,6,1012.13,6072.78,P015,C020
+INV1089,2024-01-04,Home Appliances,East,New,Bank Transfer,5,308.15,1540.75,P015,C004
+INV1090,2024-02-23,Accessories,South,New,Credit Card,6,1443.55,8661.3,P006,C007
+INV1091,2024-04-02,Home Appliances,West,New,Bank Transfer,6,265.56,1593.36,P012,C001
+INV1092,2024-03-03,Home Appliances,Central,New,Cash,7,651.2,4558.4,P020,C044
+INV1093,2024-01-18,Home Appliances,South,Returning,Credit Card,4,173.76,695.04,P018,C045
+INV1094,2024-03-30,Home Appliances,South,New,Cash,8,1495.47,11963.76,P014,C042
+INV1095,2024-02-13,Mobile Devices,West,New,Credit Card,7,778.18,5447.26,P002,C047
+INV1096,2024-02-03,Mobile Devices,East,Returning,Bank Transfer,9,913.31,8219.79,P009,C013
+INV1097,2024-03-14,Home Appliances,East,Returning,Cash,7,147.26,1030.82,P005,C022
+INV1098,2024-03-02,Accessories,East,Returning,Credit Card,3,1137.44,3412.32,P020,C021
+INV1099,2024-04-09,Mobile Devices,South,New,Bank Transfer,3,354.36,1063.08,P001,C022
+INV1100,2024-01-14,Home Appliances,South,Returning,Cash,8,1352.18,10817.44,P003,C028
+INV1101,2024-04-04,Mobile Devices,South,New,Cash,5,347.45,1737.25,P006,C009
+INV1102,2024-02-17,Mobile Devices,Central,New,Credit Card,4,326.5,1306.0,P005,C026
+INV1103,2024-01-15,Accessories,West,New,Credit Card,8,103.0,824.0,P005,C009
+INV1104,2024-03-12,Home Appliances,South,New,Credit Card,6,734.5,4407.0,P001,C015
+INV1105,2024-03-18,Home Appliances,West,Returning,Bank Transfer,2,869.02,1738.04,P017,C010
+INV1106,2024-03-27,Accessories,West,Returning,Credit Card,4,145.28,581.12,P019,C024
+INV1107,2024-03-02,Accessories,East,New,Cash,4,1174.52,4698.08,P014,C042
+INV1108,2024-02-09,Home Appliances,Central,New,Cash,6,707.27,4243.62,P012,C008
+INV1109,2024-03-25,Home Appliances,South,New,Credit Card,6,810.37,4862.22,P010,C024
+INV1110,2024-03-20,Accessories,East,Returning,Credit Card,1,689.11,689.11,P020,C016
+INV1111,2024-04-18,Mobile Devices,East,New,Cash,8,631.11,5048.88,P018,C049
+INV1112,2024-03-22,Mobile Devices,South,New,Bank Transfer,6,861.48,5168.88,P011,C026
+INV1113,2024-04-20,Accessories,West,Returning,Credit Card,3,275.1,825.3,P002,C027
+INV1114,2024-02-22,Mobile Devices,East,Returning,Credit Card,9,313.8,2824.2,P018,C037
+INV1115,2024-01-24,Accessories,West,New,Cash,2,1299.59,2599.18,P007,C004
+INV1116,2024-01-26,Mobile Devices,Central,Returning,Credit Card,8,1421.87,11374.96,P015,C050
+INV1117,2024-03-29,Mobile Devices,West,Returning,Bank Transfer,3,591.3,1773.9,P011,C024
+INV1118,2024-02-29,Home Appliances,Central,New,Cash,5,442.58,2212.9,P018,C019
+INV1119,2024-04-18,Home Appliances,West,Returning,Credit Card,6,983.8,5902.8,P012,C036
+INV1120,2024-02-10,Mobile Devices,East,New,Cash,6,642.66,3855.96,P006,C039
+INV1121,2024-01-29,Mobile Devices,East,Returning,Credit Card,4,86.81,347.24,P020,C010
+INV1122,2024-01-15,Home Appliances,Central,New,Credit Card,3,276.42,829.26,P013,C025
+INV1123,2024-02-14,Home Appliances,South,New,Credit Card,4,1088.16,4352.64,P020,C018
+INV1124,2024-03-05,Home Appliances,Central,New,Bank Transfer,1,1005.44,1005.44,P016,C019
+INV1125,2024-03-29,Accessories,Central,Returning,Bank Transfer,4,89.29,357.16,P018,C036
+INV1126,2024-03-11,Mobile Devices,West,New,Cash,1,371.86,371.86,P010,C010
+INV1127,2024-01-09,Home Appliances,West,Returning,Credit Card,1,385.06,385.06,P008,C033
+INV1128,2024-03-28,Mobile Devices,Central,New,Credit Card,6,1024.24,6145.44,P018,C050
+INV1129,2024-01-01,Accessories,East,New,Bank Transfer,5,78.58,392.9,P001,C005
+INV1130,2024-04-17,Accessories,West,Returning,Credit Card,4,200.96,803.84,P008,C047
+INV1131,2024-01-08,Home Appliances,South,New,Bank Transfer,3,1209.88,3629.64,P006,C049
+INV1132,2024-03-28,Accessories,West,New,Credit Card,1,308.89,308.89,P005,C035
+INV1133,2024-03-03,Mobile Devices,West,Returning,Cash,6,996.48,5978.88,P015,C044
+INV1134,2024-01-11,Home Appliances,South,New,Credit Card,2,395.37,790.74,P015,C034
+INV1135,2024-04-24,Mobile Devices,Central,New,Credit Card,8,194.19,1553.52,P002,C033
+INV1136,2024-03-21,Mobile Devices,South,New,Bank Transfer,5,402.6,2013.0,P001,C021
+INV1137,2024-01-08,Accessories,Central,New,Credit Card,7,1097.29,7681.03,P011,C017
+INV1138,2024-02-04,Accessories,Central,Returning,Credit Card,2,1290.76,2581.52,P010,C022
+INV1139,2024-02-04,Accessories,Central,Returning,Bank Transfer,8,1253.82,10030.56,P018,C048
+INV1140,2024-02-02,Accessories,South,New,Cash,2,625.92,1251.84,P018,C037
+INV1141,2024-01-05,Accessories,Central,Returning,Cash,4,1018.72,4074.88,P017,C015
+INV1142,2024-04-15,Home Appliances,East,New,Bank Transfer,1,347.23,347.23,P008,C035
+INV1143,2024-04-12,Mobile Devices,South,Returning,Bank Transfer,5,475.06,2375.3,P015,C028
+INV1144,2024-02-10,Mobile Devices,East,New,Bank Transfer,9,1349.69,12147.21,P008,C007
+INV1145,2024-01-28,Mobile Devices,Central,New,Bank Transfer,1,68.85,68.85,P017,C032
+INV1146,2024-01-07,Mobile Devices,West,New,Bank Transfer,9,173.99,1565.91,P012,C011
+INV1147,2024-03-13,Accessories,Central,New,Cash,8,351.44,2811.52,P008,C010
+INV1148,2024-03-12,Mobile Devices,East,New,Cash,6,88.47,530.82,P014,C009
+INV1149,2024-01-12,Home Appliances,East,New,Bank Transfer,7,313.08,2191.56,P004,C014
+INV1150,2024-02-03,Home Appliances,South,Returning,Credit Card,3,895.41,2686.23,P001,C013
+INV1151,2024-02-02,Mobile Devices,West,New,Bank Transfer,1,661.07,661.07,P001,C025
+INV1152,2024-02-17,Mobile Devices,South,Returning,Credit Card,5,1344.37,6721.85,P019,C002
+INV1153,2024-04-28,Home Appliances,East,New,Bank Transfer,2,1235.29,2470.58,P016,C035
+INV1154,2024-01-23,Home Appliances,Central,Returning,Bank Transfer,5,545.64,2728.2,P014,C007
+INV1155,2024-03-02,Accessories,West,Returning,Cash,8,426.16,3409.28,P016,C021
+INV1156,2024-03-28,Home Appliances,Central,Returning,Credit Card,9,600.55,5404.95,P005,C018
+INV1157,2024-02-06,Accessories,Central,New,Credit Card,2,905.93,1811.86,P009,C003
+INV1158,2024-04-08,Accessories,West,New,Cash,3,438.69,1316.07,P002,C042
+INV1159,2024-02-13,Accessories,South,Returning,Cash,3,955.02,2865.06,P018,C039
+INV1160,2024-04-13,Accessories,Central,New,Cash,1,643.65,643.65,P006,C041
+INV1161,2024-03-26,Accessories,East,Returning,Cash,8,850.47,6803.76,P009,C049
+INV1162,2024-03-31,Mobile Devices,Central,New,Credit Card,6,682.38,4094.28,P001,C011
+INV1163,2024-02-04,Home Appliances,West,Returning,Credit Card,8,476.98,3815.84,P009,C039
+INV1164,2024-03-05,Accessories,West,Returning,Bank Transfer,9,1425.26,12827.34,P016,C024
+INV1165,2024-04-08,Home Appliances,West,New,Bank Transfer,5,1157.23,5786.15,P013,C046
+INV1166,2024-04-10,Home Appliances,South,Returning,Cash,3,253.16,759.48,P009,C019
+INV1167,2024-02-16,Accessories,Central,New,Cash,5,1309.28,6546.4,P013,C004
+INV1168,2024-03-18,Mobile Devices,South,Returning,Cash,5,756.78,3783.9,P009,C026
+INV1169,2024-01-03,Accessories,South,Returning,Bank Transfer,5,1347.1,6735.5,P011,C038
+INV1170,2024-01-01,Mobile Devices,West,New,Bank Transfer,3,1209.79,3629.37,P004,C042
+INV1171,2024-01-05,Home Appliances,West,New,Bank Transfer,4,666.56,2666.24,P002,C032
+INV1172,2024-03-30,Mobile Devices,South,New,Bank Transfer,9,82.58,743.22,P006,C039
+INV1173,2024-04-28,Mobile Devices,Central,Returning,Bank Transfer,9,439.58,3956.22,P014,C045
+INV1174,2024-01-14,Mobile Devices,East,New,Bank Transfer,2,835.37,1670.74,P004,C046
+INV1175,2024-04-12,Home Appliances,South,Returning,Bank Transfer,8,968.54,7748.32,P006,C036
+INV1176,2024-01-27,Home Appliances,Central,Returning,Cash,8,423.94,3391.52,P019,C040
+INV1177,2024-01-09,Mobile Devices,West,New,Cash,7,252.07,1764.49,P006,C037
+INV1178,2024-03-19,Mobile Devices,West,New,Cash,8,1260.65,10085.2,P002,C033
+INV1179,2024-01-15,Accessories,Central,Returning,Cash,3,1477.38,4432.14,P018,C036
+INV1180,2024-03-30,Mobile Devices,East,Returning,Bank Transfer,6,812.25,4873.5,P013,C003
+INV1181,2024-02-11,Accessories,West,New,Credit Card,1,298.93,298.93,P009,C009
+INV1182,2024-03-17,Mobile Devices,West,New,Bank Transfer,7,444.85,3113.95,P019,C008
+INV1183,2024-02-20,Accessories,West,New,Credit Card,1,76.67,76.67,P013,C033
+INV1184,2024-03-03,Home Appliances,Central,New,Cash,9,1375.73,12381.57,P011,C006
+INV1185,2024-04-05,Mobile Devices,South,New,Bank Transfer,1,220.74,220.74,P001,C041
+INV1186,2024-04-12,Mobile Devices,West,Returning,Cash,1,885.95,885.95,P007,C039
+INV1187,2024-04-22,Mobile Devices,South,Returning,Bank Transfer,7,447.38,3131.66,P015,C004
+INV1188,2024-02-21,Mobile Devices,East,Returning,Cash,2,853.56,1707.12,P001,C013
+INV1189,2024-04-05,Accessories,West,Returning,Credit Card,5,994.56,4972.8,P012,C049
+INV1190,2024-01-04,Mobile Devices,West,New,Credit Card,8,1253.13,10025.04,P007,C002
+INV1191,2024-04-03,Home Appliances,East,New,Credit Card,8,349.31,2794.48,P015,C005
+INV1192,2024-04-10,Home Appliances,West,New,Bank Transfer,3,65.94,197.82,P019,C044
+INV1193,2024-01-23,Mobile Devices,South,Returning,Credit Card,7,248.48,1739.36,P001,C027
+INV1194,2024-04-12,Home Appliances,Central,Returning,Bank Transfer,3,1355.03,4065.09,P017,C032
+INV1195,2024-04-18,Mobile Devices,South,New,Credit Card,6,1317.14,7902.84,P017,C021
+INV1196,2024-01-15,Mobile Devices,Central,New,Credit Card,6,916.25,5497.5,P003,C008
+INV1197,2024-02-12,Home Appliances,Central,Returning,Bank Transfer,3,920.75,2762.25,P012,C038
+INV1198,2024-01-29,Mobile Devices,South,Returning,Bank Transfer,7,1014.3,7100.1,P006,C008
+INV1199,2024-02-05,Home Appliances,South,New,Credit Card,3,304.29,912.87,P011,C050
