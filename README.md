@@ -1,9 +1,9 @@
 
-# End-to-End Sales and Customer Insights Analytics Project 
+# End-to-End Sales and Customer Insights Project 
 
 
 ## Overview
-This project is an end-to-end Power BI business intelligence project designed to analyze sales performance, profitability, and customer satisfaction.
+A comprehensive business intelligence project designed to analyze sales performance, profitability, and customer satisfaction using Power BI.
 
 ---
 
