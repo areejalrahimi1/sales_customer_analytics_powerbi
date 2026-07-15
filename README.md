@@ -1,5 +1,5 @@
 
-# End-to-End Sales and Customer Insights Project 
+# Sales and Customer Insights Project (End-to-End)
 
 
 ## Overview
