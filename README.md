@@ -76,4 +76,3 @@ The project utilizes a robust **Star Schema** architecture to ensure optimized q
 ##  Author
 * **Areej Almutairi**
 * **Role:** Data Analyst & Business Intelligence Professional
-* **Connect with me:** [LinkedIn](https://linkedin.com/in/areej-almutairi) | [Email](mailto:areej.almutairi@outlook.com)
